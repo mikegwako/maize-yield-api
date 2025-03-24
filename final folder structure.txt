@@ -1,0 +1,6 @@
+📂 maize-yield-api/
+├── app.py
+├── maize_yield_model.pkl
+├── requirements.txt
+├── Procfile
+└── .gitignore  (optional)
